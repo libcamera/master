@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">camera</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="str_state_rgba">RGBA mode</string>
+    <string name="str_state_gray">8bit灰度</string>
+    <string name="str_state_sobel">Sobel</string>
+    <string name="str_state_canny">Canny</string>
+
+</resources>
